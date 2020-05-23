@@ -6,7 +6,7 @@ A flexible UIPageControl like Instagram.
 # Update ✨✨
 
 * Name: **InsPageControl**
-* Language: Objective-c
+* Language: Objective-C
 
 **Purpose**: Objective-C project also can use it
 
